@@ -6,6 +6,8 @@
     🥬 OrdesHub 🐙
   </h3>
 
+  ![Cerceda](https://img.shields.io/badge/ORGANIZATION%20STATUS-WIP-yellow?style=flat-square)
+
   ![Cerceda](https://img.shields.io/badge/-CERCEDA-9e79e5?style=flat-square)
   ![Frades](https://img.shields.io/badge/-FRADES-ff492f?style=flat-square)
   ![Mesía](https://img.shields.io/badge/-MESÍA-ff8a00?style=flat-square)
